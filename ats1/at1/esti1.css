@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(150, 233, 233);
+}
+
+p{
+    color: darkred;
+     text-transform: capitalize;
+}
+
+h1{
+    font-style: italic;
+    text-align: center;
+}
+
+#p1{
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+   text-decoration-line: line-through;
+}

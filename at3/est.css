@@ -1,0 +1,45 @@
+*{
+    margin-right: auto;
+    margin-left:  auto;
+}
+
+body{
+    background: pink;
+}
+
+header{
+    font-style: oblique;
+    text-shadow: 3px 0px red ;
+    text-align: center;
+   
+    
+}
+
+
+.letra{
+    padding: 15px;
+    background: white;
+    border: orange solid 1px;
+    text-align: center;
+}
+
+
+
+img{
+    box-shadow: 10px 10px darksalmon;
+    width: 400px;
+    position: absolute;
+    left: 39%;
+    bottom: 25% ;
+    border-radius: 10%;
+}
+#roda{
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    background: white;
+    border: white solid 1px;
+    width: 1888px;
+   padding: 15px;
+   font-weight: bold;
+}

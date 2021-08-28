@@ -1,0 +1,35 @@
+th{
+    width: 150px;
+}
+
+
+header{
+    color: blue;
+    border-bottom: solid black;
+    
+    
+}
+
+div{
+    position: absolute;
+    left: 35%;
+}
+
+
+.back{
+    background-color: gray;
+    
+}
+
+.nota{
+  
+  color: green ;
+  text-align: center;
+  
+}
+
+
+.nota2{
+    color: red;
+    text-align: center;
+}
